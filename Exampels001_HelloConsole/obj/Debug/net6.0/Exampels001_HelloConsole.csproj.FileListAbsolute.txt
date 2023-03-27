@@ -1,0 +1,15 @@
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.exe
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.deps.json
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.runtimeconfig.json
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.dll
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\bin\Debug\net6.0\Exampels001_HelloConsole.pdb
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.csproj.AssemblyReference.cache
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.AssemblyInfoInputs.cache
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.AssemblyInfo.cs
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.dll
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\refint\Exampels001_HelloConsole.dll
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.pdb
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\Exampels001_HelloConsole.genruntimeconfig.cache
+C:\Учёба ГБ 2023\Exsamples\Exampels001_HelloConsole\obj\Debug\net6.0\ref\Exampels001_HelloConsole.dll
