@@ -106,10 +106,10 @@ Console.WriteLine(res);
 String newText = Replase(text, ' ', '|');
 Console.WriteLine(newText);
 Console.WriteLine();
-newText = Replase(text, 'к', 'K');
+newText = Replase(newText, 'к', 'K');
 Console.WriteLine(newText);
 Console.WriteLine();
-newText = Replase(text, 'С', 'с');
+newText = Replase(newText, 'С', 'с');
 Console.WriteLine(newText);
 */
 
